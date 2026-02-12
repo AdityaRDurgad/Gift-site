@@ -1,0 +1,97 @@
+body{
+    background: linear-gradient(skyblue,pink);
+    margin: 0px;
+    text-align: center;
+    color: white;
+    font-family: "Happy Monkey", system-ui;
+    font-weight: 100;
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-shadow: 0px 0px 1px black;
+}
+.footer{
+    margin: 20px;
+    font-style: italic;
+}
+a{
+    color: white;
+}
+/* .blue{
+    background-color: violet;
+    width: 100%;
+    
+} */
+/* .green{
+    background-color: lightgreen;
+    width: 100%;
+} */
+
+#genius:hover{
+    background-image: url(genius.gif);
+    background-size: cover;
+}
+/* .black{
+    background-color: rgb(49, 26, 26);
+    width: 100%;
+} */
+
+#badass:hover{
+    background-image: url(badass.gif);
+    background-size: cover;
+}
+/* .yellow{
+    background-color: rgb(218, 218, 97);
+    width: 100%;
+} */
+#chocolate:hover{
+    background-image: url(chocolates.gif);
+    background-size: cover;
+}
+
+.aditya{
+    margin:10px auto;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: rgb(236, 161, 173) solid 10px;
+}
+.image{
+    width: 400px;
+    height:400px;
+    margin: 0px auto;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url(gift.jpg);
+    background-size: cover;
+}
+/* .pink2{
+    background-color: rgb(220, 159, 169);
+    width: 100%;
+} */
+#happy:hover{
+    background-image: url(happy1.gif);
+    background-size: cover;
+}
+#hot:hover{
+    background-image: url(hot.gif);
+    background-size: cover;
+}
+.pink{
+    background-color: rgb(236, 161, 173);
+    height: 30px;
+    margin: 10px auto;
+    padding: 2px 10px;
+    color:white;
+    border-radius: 4px;
+}
+.pink1{
+    background-color: rgb(236, 161, 173);
+    height: 20px;
+    margin: 10px auto;
+    padding: 2px;
+    color:white;
+    padding: 2px 10px;
+    border-radius: 4px;
+}
